@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>スマホ習慣改善ミニマニュアル</title>
+
+<style>
+body {
+  font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
+  line-height: 1.8;
+  margin: 0;
+  background: #fff;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 20px;
+  border-left: 5px solid #f97316;
+  padding-left: 10px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #f97316;
+}
+
+.box {
+  background: #fff7ed;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.cta {
+  background: #f97316;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.cta strong {
+  font-size: 18px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>スマホ習慣改善ミニマニュアル</h1>
+<p style="text-align:center;">― 子どもの未来を守る“使い方設計” ―</p>
+
+<div class="section">
+<h2>0. このマニュアルの考え方（重要）</h2>
+<p>スマホ問題は「意志」では解決しません。<br>
+<span class="highlight">環境（設定）×習慣（行動設計）</span>で解決します。</p>
+</div>
+
+<div class="section">
+<h2>① まず知るべき“3つの真実”</h2>
+<p>✔ スマホは「依存するように設計」されている<br>
+✔ 使用しやすい環境が自然と作られている<br>
+✔ 人の行動は45%が習慣化されている</p>
+</div>
+
+<div class="section">
+<h2>② 最初にやるべき“最低限の設定”</h2>
+<div class="box">
+✔ 通知：すべてOFF<br>
+✔ アプリアイコンを単色にする<br>
+✔ ホーム画面：学習アプリのみ
+</div>
+<p><span class="highlight">強制ではなく“使うまでの導線”を消す</span></p>
+</div>
+
+<div class="section">
+<h2>③ たった1つの習慣で変わる</h2>
+<p>▶ スマホ収納ボックスを作る</p>
+<p><span class="highlight">スマホの持ち上げ回数が激減</span></p>
+</div>
+
+<div class="section">
+<h2>④ 賢くなる使い方</h2>
+<p>✖ 手に取る→使う→終わり<br>
+● 考える→手に取る→使う→アウトプット</p>
+
+<div class="box">
+例：<br>
+仮説 → 検証 → 説明 → 習得
+</div>
+
+<p><span class="highlight">アウトプット＝習得への近道</span></p>
+</div>
+
+<div class="section">
+<h2>⑤ 親子ルールで大事なこと</h2>
+<p>✔ 子どもが決める<br>
+✔ 破った際の代案まで準備<br>
+✔ 小さく始める</p>
+
+<p><span class="highlight">守れないのは設計ミス</span></p>
+</div>
+
+<div class="section">
+<h2>⑥ 絶対NGな使い方</h2>
+<div class="box">
+✔ 朝起きてすぐスマホ<br>
+✔ 寝る前スマホ<br>
+✔ 食事中スマホ
+</div>
+
+<p>学力・睡眠・会話が崩れます</p>
+</div>
+
+<div class="section">
+<h2>⑦ よくある失敗</h2>
+<p>✔ いきなり厳しくする<br>
+✔ 親が一方的に決める<br>
+✔ 守れないと怒る</p>
+
+<p><span class="highlight">→ 隠れて使うようになる</span></p>
+</div>
+
+<div class="section">
+<h2>⑧ ここまでできた人へ</h2>
+<p>ここまでで大きく改善できます。<br>
+しかし…</p>
+
+<p>✔ 守らない<br>
+✔ 継続できない<br>
+✔ 家庭ごとに正解が違う</p>
+</div>
+
+<div class="section">
+<h2>⑨ 次のステップ</h2>
+<p>本当に変わる家庭は</p>
+
+<p>✔ 個別設計<br>
+✔ 習慣の仕組み化<br>
+✔ 親の関わり方の最適化</p>
+</div>
+
+<div class="cta">
+<strong>＼ 先着30名限定 ／</strong><br><br>
+スマホ習慣改善コーチング（60分）無料<br><br>
+<b>　公式LINEで「受講」とメッセージしてください</b>
+</div>
+
+<div class="footer">
+<p>「知っている」だけでは変わりません。<br>
+“仕組み”を作った家庭だけが変わります。</p><a href="https://line.me/R/ti/p/@369amsri" style="display:inline-block;background:#06C755;color:white;padding:15px 25px;border-radius:8px;text-decoration:none;">
+LINEで無料相談する
+</a>
+
+</div>
+
+</body>
+</html>
